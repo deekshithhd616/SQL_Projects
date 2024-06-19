@@ -17,6 +17,7 @@ Description:
 Analysis Techniques: Data querying, data cleaning, data manipulation, and data visualization.
 
 4. **Responsibilities & Contributions**
+
 Key Responsibilities & Contributions:
 
 **Data Extraction**: Used SQL to query and extract relevant data from the music store database.
@@ -25,7 +26,9 @@ Key Responsibilities & Contributions:
 **Data Analysis**: Conducted various analyses to uncover sales trends, customer preferences, and product performance using SQL queries.
 **Reporting**: Created summary tables and views in SQL to support data visualization and reporting. Exported results to Excel for further analysis and visualization, if needed.
 Insights and Recommendations: Analyzed the data to identify key trends and patterns, providing actionable insights and recommendations for improving sales and customer satisfaction.
+
 5. **Results**
+
 Results:
 
 Identified top-selling genres, artists, and albums, which informed inventory and marketing decisions.
@@ -34,6 +37,7 @@ Provided insights into seasonal sales trends and customer purchasing behavior, e
 Improved inventory management by identifying underperforming products and suggesting reordering strategies.
 
 6. **Skills Demonstrated**
+
 Skills Demonstrated:
 
 SQL Querying
@@ -44,6 +48,7 @@ Reporting & Communication
 Analytical Thinking & Problem-Solving
 
 7. **Link to Project** 
+
 Link to Project: [https://github.com/deekshithhd616/SQL_Projects]
 
 **Music Store Data Analysis Using SQL**
